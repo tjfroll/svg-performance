@@ -1,0 +1,23 @@
+* {
+  font-family: Palatino Linotype, Georgia, Times New Roman, serif;
+  font-size: 20px;
+}
+
+body {
+  background-color: #333;
+  color: #EFEFEF;
+  padding: 1rem;
+}
+
+.container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+// polyline:hover {
+//   fill: orange;
+//   transition: .1s fill;
+// }
