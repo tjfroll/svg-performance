@@ -23,30 +23,30 @@ append(container, svg)
 
 let groupCW = create('g', {
   stroke: 'red',
-  'stroke-width': '5px',
+  'stroke-width': '7px',
   fill: 'none',
-  opacity: 0.6
+  opacity: 0.5
 })
 
 let groupCCW = create('g', {
   stroke: 'cyan',
-  'stroke-width': '5px',
+  'stroke-width': '4px',
   fill: 'none',
-  opacity: 0.6
+  opacity: 0.5
 })
 
 let groupCW2 = create('g', {
   stroke: 'purple',
-  'stroke-width': '5px',
+  'stroke-width': '6px',
   fill: 'none',
-  opacity: 0.3
+  opacity: 0.5
 })
 
 let groupCCW2 = create('g', {
   stroke: 'green',
   'stroke-width': '5px',
   fill: 'none',
-  opacity: 0.6
+  opacity: 0.5
 })
 
 let totalX = window.innerWidth
